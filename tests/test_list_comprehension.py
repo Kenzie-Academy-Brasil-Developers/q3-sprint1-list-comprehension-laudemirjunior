@@ -1,4 +1,4 @@
-from solution import (
+from main import (
     list_comprehension_exercise_1,
     list_comprehension_exercise_2,
     list_comprehension_exercise_3,
@@ -6,7 +6,6 @@ from solution import (
     list_comprehension_exercise_5,
     list_comprehension_exercise_6,
 )
-
 
 def test_exercise_1():
 
